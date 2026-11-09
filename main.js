@@ -14,3 +14,4 @@ recupereprix.textContent = prix
 
 nom = 'Clavieer'
 recuperenom.textContent = nom 
+
